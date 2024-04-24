@@ -1,6 +1,6 @@
 # Creating Custom Extension in Watson Assistant
 
-This article explains about how to create custom extension in Watson Asssitant to call a Python Application running in Code Engine.
+This article explains about how to create custom extension in Watson Asssitant to call a Python Application running in Code Engine. Also it explains about how to use custom extension in Watson Asssitant actions.
 
 Lets us assume that your python application is running in IBM Code engine. It is required to have an Open API Specificiation to create a custom extension in Watson Asssitant.
 
