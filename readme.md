@@ -2,7 +2,7 @@
 
 This article explains about how to create custom extension in Watson Asssitant to call a Python Application running in Code Engine.
 
-Lets us assume your python application is running in code engine. It is required to have Open API to create custom extension in Watson Asssitant.
+Lets us assume that your python application is running in IBM Code engine. It is required to have an Open API Specificiation to create a custom extension in Watson Asssitant.
 
 ## 1. Creating Open API using Swagger
 
@@ -337,7 +337,7 @@ The application page get displayed.
 
 8. Click on `Add` Option. The variable got created.
 
-9. Similarly create an entry for each Environment variables mentioned in the `.env-sample` file.
+9. Similarly create an entry for each Environment variables as required.
 
 <img src="images/image22.png">
 
